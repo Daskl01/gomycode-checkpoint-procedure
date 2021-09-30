@@ -1,6 +1,0 @@
-ALGORITHM produit_scalaire
-VAR
-    set_declarations
-BEGIN
-    set_instructions
-END
